@@ -63,7 +63,7 @@ Passionate Software Engineer dedicated to building scalable web applications, de
 
 ## 📬 Contact & Links
 
-- 💼 **LinkedIn:** [linkedin.com/in/vatsal-posty](https://linkedin.com/in/vatsal-posty) *(Replace with your exact LinkedIn profile link)*
+- 💼 **LinkedIn:** [linkedin.com/in/vatsal-postiwala](https://www.linkedin.com/in/vatsal-postiwala)
 - 💻 **GitHub:** [github.com/vatsalposty01](https://github.com/vatsalposty01)
 - 📧 **Email:** [Contact via GitHub](https://github.com/vatsalposty01)
 
