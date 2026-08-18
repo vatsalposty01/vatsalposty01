@@ -53,16 +53,13 @@ Frontend web application built with HTML, CSS, and JavaScript following responsi
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vatsalposty01&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalposty01&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top Languages" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalposty01&theme=default&hide_border=true" alt="Contribution Streak" width="55%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalposty01&theme=default&hide_border=true" alt="Contribution Streak" width="60%" />
-</div>
+> 📌 *GitHub's built-in contribution graph is visible on my [profile page](https://github.com/vatsalposty01).*
 
 ---
 
