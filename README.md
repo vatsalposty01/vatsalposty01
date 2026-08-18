@@ -1,6 +1,6 @@
 # Hi, I'm Vatsal Postiwala 👋
 
-**Software Engineer** — focused on building robust applications with clean architecture, strong CS fundamentals, and production-quality code.
+**Software Engineer** — strong CS fundamentals, clean code, and a focus on solving real engineering problems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vatsal--postiwala-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/vatsal-postiwala)
 [![GitHub](https://img.shields.io/badge/GitHub-vatsalposty01-181717?style=flat&logo=github)](https://github.com/vatsalposty01)
@@ -9,11 +9,11 @@
 
 ## About
 
-I am a Software Engineer with hands-on experience in **Java**, **full-stack web development**, and core Computer Science subjects including **DBMS**, **Operating Systems**, and **Data Structures & Algorithms**. I write well-structured, documented code and enjoy solving real-world engineering problems.
+Software Engineer with hands-on experience in **Java**, **web development**, and core Computer Science — including **DBMS**, **Operating Systems**, and **Data Structures & Algorithms**. I write well-structured, documented code and focus on understanding systems from the ground up.
 
 - 🎯 **Seeking:** Software Development Engineer (SDE) roles and internships
-- 🌱 **Currently studying:** System Design, Distributed Systems, and Advanced DSA
-- 💬 **Ask me about:** Java, SQL, Operating Systems, Web Development
+- 🌱 **Currently learning:** System Design, Advanced DSA, and Backend Development
+- 💬 **Ask me about:** Java, SQL, Operating Systems, Data Structures
 
 ---
 
@@ -21,31 +21,34 @@ I am a Software Engineer with hands-on experience in **Java**, **full-stack web 
 
 | Category | Technologies |
 |---|---|
-| **Languages** | Java, Python, JavaScript, SQL, HTML, CSS |
-| **Frontend** | React.js, Next.js, Tailwind CSS, Redux |
-| **Backend** | Node.js, Express.js, FastAPI |
-| **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
-| **Tools & DevOps** | Git, GitHub, Docker, Linux, Postman, VS Code |
-| **CS Fundamentals** | DSA, OOP, DBMS, Operating Systems, Computer Networks, System Design |
+| **Languages** | Java, SQL, HTML, CSS, JavaScript |
+| **CS Fundamentals** | Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks |
+| **Web Development** | HTML5, CSS3, JavaScript, Responsive Design |
+| **Databases** | MySQL, PostgreSQL |
+| **Tools** | Git, GitHub, VS Code, Linux, Postman |
 
 ---
 
 ## Projects
 
 ### [JAVA](https://github.com/vatsalposty01/JAVA)
-Core Java programming covering OOP concepts, Collections framework, Multithreading, Exception Handling, and Data Structures implementation.
-`Java` `OOP` `Data Structures` `Collections`
+Core Java programs covering OOP principles, Collections framework, Multithreading, Exception Handling, and Data Structure implementations.
+
+`Java` `OOP` `Data Structures` `Collections` `Multithreading`
 
 ### [DBMS](https://github.com/vatsalposty01/DBMS)
-Database Management Systems coursework — SQL queries, normalization, ER diagrams, relational algebra, and transaction management.
+Database Management Systems — SQL queries, normalization, ER diagrams, relational algebra, and transaction management.
+
 `SQL` `Database` `Normalization` `Relational Algebra`
 
 ### [Operating-System-Lab](https://github.com/vatsalposty01/Operating-System-Lab)
-Operating System lab programs — CPU scheduling algorithms, memory management, process synchronization, page replacement, and disk scheduling.
+OS lab implementations — CPU scheduling algorithms, memory management, process synchronization, page replacement, and disk scheduling.
+
 `Operating Systems` `CPU Scheduling` `Process Synchronization`
 
 ### [FCC_APP](https://github.com/vatsalposty01/FCC_APP)
-Frontend web application built with HTML, CSS, and JavaScript following responsive design and modern web development practices.
+Frontend web application built with HTML, CSS, and JavaScript following responsive design practices.
+
 `HTML` `CSS` `JavaScript` `Frontend`
 
 ---
