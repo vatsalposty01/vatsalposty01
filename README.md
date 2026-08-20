@@ -9,11 +9,11 @@
 
 ## About
 
-Software Engineer with hands-on experience in **Java**, **web development**, and core Computer Science — including **DBMS**, **Operating Systems**, and **Data Structures & Algorithms**. I write well-structured, documented code and focus on understanding systems from the ground up.
+Software Engineer with hands-on experience in **Java**, **C**, **web development**, and core Computer Science — including **Data Structures & Algorithms**, **DBMS**, and **Operating Systems**. I write well-structured, documented code and focus on understanding systems from the ground up.
 
 - 🎯 **Seeking:** Software Development Engineer (SDE) roles and internships
-- 🌱 **Currently learning:** System Design, Advanced DSA, and Backend Development
-- 💬 **Ask me about:** Java, SQL, Operating Systems, Data Structures
+- 🌱 **Currently working on:** DSA problem-solving in C, System Design, and Backend Development
+- 💬 **Ask me about:** Java, C, Data Structures & Algorithms, SQL, Operating Systems
 
 ---
 
@@ -21,7 +21,7 @@ Software Engineer with hands-on experience in **Java**, **web development**, and
 
 | Category | Technologies |
 |---|---|
-| **Languages** | Java, SQL, HTML, CSS, JavaScript |
+| **Languages** | Java, C, SQL, HTML, CSS, JavaScript |
 | **CS Fundamentals** | Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks |
 | **Web Development** | HTML5, CSS3, JavaScript, Responsive Design |
 | **Databases** | MySQL, PostgreSQL |
@@ -41,15 +41,15 @@ Database Management Systems — SQL queries, normalization, ER diagrams, relatio
 
 `SQL` `Database` `Normalization` `Relational Algebra`
 
-### [Operating-System-Lab](https://github.com/vatsalposty01/Operating-System-Lab)
-OS lab implementations — CPU scheduling algorithms, memory management, process synchronization, page replacement, and disk scheduling.
-
-`Operating Systems` `CPU Scheduling` `Process Synchronization`
-
 ### [FCC_APP](https://github.com/vatsalposty01/FCC_APP)
 Frontend web application built with HTML, CSS, and JavaScript following responsive design practices.
 
 `HTML` `CSS` `JavaScript` `Frontend`
+
+### 🔒 Data Structures & Algorithms *(Private Repository)*
+Actively solving DSA problems in C — covering Arrays, Linked Lists, Trees, Graphs, Sorting, Searching, and Dynamic Programming.
+
+`C` `DSA` `Algorithms` `Problem Solving`
 
 ---
 
@@ -58,8 +58,6 @@ Frontend web application built with HTML, CSS, and JavaScript following responsi
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalposty01&theme=default&hide_border=true" alt="Contribution Streak" width="55%" />
 </div>
-
-> 📌 *GitHub's built-in contribution graph is visible on my [profile page](https://github.com/vatsalposty01).*
 
 ---
 
